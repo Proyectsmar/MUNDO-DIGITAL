@@ -1,0 +1,33 @@
+.if {
+    border-radius: 25px;
+    border-color: black;
+    background-color: blue;
+}
+
+input {
+    border-style: groove;
+    border-color: black;
+}
+
+body {
+    background-color: rgb(252, 255, 240);
+}
+
+#ir {
+    background-color: aliceblue;
+    color: blue;
+}
+
+#imm {
+    display: none;
+}
+
+#im {
+    display: none;
+}
+
+#boto {
+    border-radius: 20px;
+    background-color: aliceblue;
+    width: 50px;
+}

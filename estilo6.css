@@ -1,0 +1,41 @@
+#iman {
+    display: none;
+}
+
+button {
+    border-style: groove;
+    border-color: black;
+    background-color: aliceblue;
+}
+
+#boto {
+    width: 100px;
+    border-color: rgb(229, 73, 243);
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+#er {
+    border-style: groove;
+    background-color: azure;
+    color: blue;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+#her {
+    background-color: aqua;
+    border-radius: 20px;
+    border-color: blue;
+}
+
+#ima {
+    display: none;
+     }
+
+     .er {
+        border-style: groove;
+        border-color: blue;
+     }

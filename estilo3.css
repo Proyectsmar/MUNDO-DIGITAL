@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+}
+
+input {
+    border-style: groove;
+    border-color: blue;
+}
+
+button {
+    border-style: double;
+    border-color: blue;
+}

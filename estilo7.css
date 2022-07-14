@@ -1,0 +1,36 @@
+#ima {
+    display: none;
+}
+
+#boto {
+    width: 100px;
+    border-color: rgb(229, 73, 243);
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.er {
+    border-radius: 10px;
+    border-color: blue;
+    border: 10px;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+#her {
+    background-color: aqua;
+    border-radius: 20px;
+    border-color: blue;
+}
+
+ #iman {
+    display: none;
+ }
+
+ #ir {
+    border-radius: 10px;
+    border-color: aqua;
+    color: blue;
+ }
